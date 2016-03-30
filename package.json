@@ -1,0 +1,23 @@
+{
+  "name": "jimmylandron-portfolio",
+  "version": "0.0.1",
+  "description": "portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmylandron/jimmylandron-portfolio.git"
+  },
+  "author": "Jimmy Landron <jimmylandron@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmylandron/jimmylandron-portfolio/issues"
+  },
+  "homepage": "https://github.com/jimmylandron/jimmylandron-portfolio#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
