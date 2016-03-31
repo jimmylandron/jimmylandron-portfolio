@@ -4,7 +4,7 @@ var path = require('path');
 
 var port = process.env.PORT;
 
-app.set('view engine', 'egj');
+app.set('view engine', 'ejs');
 app.set('views', path.resolve(__dirname, 'client', 'views'));
 
 app.get('/', function(req, res){
