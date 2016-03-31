@@ -1,0 +1,17 @@
+{
+  "name": "jimmylandron-portfolio",
+  "description": "portfolio",
+  "authors": [
+    "Jimmy Landron <jimmylandron@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jimmylandron/jimmylandron-portfolio",
+  "moduleType": [],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  },
+  "install": {
+    "path":"client/libs"
+  }
+}
